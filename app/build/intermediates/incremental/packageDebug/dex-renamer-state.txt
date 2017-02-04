@@ -1,0 +1,7 @@
+#Sun Feb 05 01:38:10 IST 2017
+base.0=/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_034234f87f023bed7a5e48e4c09d648317ae39f9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4c1f16f03a40c163a31a94eef41a2b13ab66d798/classes.dex
+base.1=/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4c1f16f03a40c163a31a94eef41a2b13ab66d798
+file.0=/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_034234f87f023bed7a5e48e4c09d648317ae39f9/classes.dex

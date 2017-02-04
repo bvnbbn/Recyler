@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler</string>
+    <string name="text1">Load image from:</string>
+    ​<string name="text2"> Load image from:\n https://cdn.pixabay.com/photo/2015/04/22/12/02/butterfly-734654_960_720.jpg</string>
+</resources>

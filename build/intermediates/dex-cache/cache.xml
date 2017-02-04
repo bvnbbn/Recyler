@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_815e959a5f68452fdd5443053abdbe497953a85b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_9da771dcb4724b00965a21d3bb3e8f96159d9d7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_072d93ccd561934997ebb55a780e3c1d11aad6ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_072d93ccd561934997ebb55a780e3c1d11aad6ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_9da771dcb4724b00965a21d3bb3e8f96159d9d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_eb0ad9da833cca2c6da988fa50fe67a2b5ed0090.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_eb0ad9da833cca2c6da988fa50fe67a2b5ed0090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="705f724fb6944a4233152f9d9d4b16661bceb4ef">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_034234f87f023bed7a5e48e4c09d648317ae39f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64e0a0626be459272b1044c31e35913d0e77ebe1">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4c1f16f03a40c163a31a94eef41a2b13ab66d798/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_f1e17bff386a0a6c3fcce933d1f87af92a26e6b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_61a080ec9990afe2cee333f8029068e86387549b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_61a080ec9990afe2cee333f8029068e86387549b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_2824f1c4ca4e8724ddd111e52db8242e08fc9c8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_2824f1c4ca4e8724ddd111e52db8242e08fc9c8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_3539fbe2c3d9c1a4adc2b629c10d4918fcc94457/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_0fc466cea24e04ee6907737d5cd046964bdec35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_b8b75079c36477ae47fe207837336435c30a8b4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_b8b75079c36477ae47fe207837336435c30a8b4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_614153cbc99b382d21b2bdc868b453684be032da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_614153cbc99b382d21b2bdc868b453684be032da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_3539fbe2c3d9c1a4adc2b629c10d4918fcc94457.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_f1e17bff386a0a6c3fcce933d1f87af92a26e6b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_488369c47ccd77772a9a4aea7b37e67b20b6bff8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_8a1cc8d7ea11e5ed01d7345fbe728d0abd598157/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_488369c47ccd77772a9a4aea7b37e67b20b6bff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_83c4005c658467fcf56a25324a6c1ec188ff04a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/library-1.0.19_4b0ac43e33a76ba6501cc3f7cd5f820e113f09f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_83c4005c658467fcf56a25324a6c1ec188ff04a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_8a1cc8d7ea11e5ed01d7345fbe728d0abd598157.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_0fc466cea24e04ee6907737d5cd046964bdec35d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/vikas/AndroidStudioProjects/Recycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_4b0ac43e33a76ba6501cc3f7cd5f820e113f09f0/classes.dex" />
+    </item>
+
+</items>
